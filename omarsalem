@@ -6,3 +6,5 @@ print(2007)
 print(2006)
 print(2005)
 print(2004)
+cd omarsalem
+python omarsalem
